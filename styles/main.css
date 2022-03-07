@@ -31,7 +31,7 @@ body {
 }
 
     .pierwszy:hover {
-        background-color: gold;
+        background-color: tomato;
     }
 
 .drugi {
@@ -45,7 +45,7 @@ body {
 }
 
     .drugi:hover {
-        background-color: tomato;
+        background-color: lime;
     }
 
 .trzeci {
@@ -59,7 +59,7 @@ body {
 }
 
     .trzeci:hover {
-        background-color: lime;
+        background-color: gold;
     }
 
 .textarea {
