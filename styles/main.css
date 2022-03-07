@@ -8,14 +8,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    max-height: 1500px;
 }
 
 .wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 1500px;
-    width: 1500px;
+    height: 1000px;
+    width: 1000px;
     background-color: black;
 }
 
@@ -23,8 +24,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 900px;
-    width: 900px;
+    height: 750px;
+    width: 750px;
     background-color: lime;
 }
 
@@ -32,8 +33,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 750px;
-    width: 750px;
+    height: 500px;
+    width: 500px;
     background-color: gold;
 }
 
