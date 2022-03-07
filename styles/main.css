@@ -3,3 +3,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1500px;
+    width: 1500px;
+}
+
+.pierwszy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    width: 900px;
+    background-color: lime;
+}
+
+.drugi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 750px;
+    width: 750px;
+    background-color: gold;
+}
+
+.trzeci {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    background-color: tomato;
+}
