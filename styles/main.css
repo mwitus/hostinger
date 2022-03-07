@@ -47,6 +47,9 @@ body {
 }
 
 .txt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-weight: bold;
     letter-spacing: 1px;
     color: white;
