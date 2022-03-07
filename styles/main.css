@@ -17,7 +17,6 @@ body {
     align-items: center;
     height: 1000px;
     width: 1000px;
-    background-color: black;
 }
 
 .pierwszy {
@@ -42,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 600px;
-    width: 600px;
+    height: 250px;
+    width: 250px;
     background-color: tomato;
 }
