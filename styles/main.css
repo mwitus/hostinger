@@ -50,7 +50,7 @@ body {
     height: 500px;
     width: 500px;
     background-color: gold;
-    transition: background-color 1s ease;
+    transition: background-color 0.5s ease;
 }
 
     .drugi:hover {
